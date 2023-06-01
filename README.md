@@ -6,7 +6,7 @@ A Calculadora de Divisão de Conta é uma aplicação JavaScript que permite div
 
 1. Clone este repositório ou faça o download dos arquivos do projeto.
 
-2. Abra o arquivo `index.html` em um navegador da web. Se quiser evitar esses dois primeiros passos, acesse o link.
+2. Abra o arquivo `index.html` em um navegador da web. Se quiser evitar esses dois primeiros passos, acesse o link: https://restaurant-calculator-raphael.netlify.app.
 
 3. A página da calculadora de divisão de conta será exibida.
 
